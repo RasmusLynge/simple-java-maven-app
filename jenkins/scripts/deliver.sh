@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 echo 'plz deliver'
+# for permissions for github: git update-index --chmod=+x check_services.sh
 
 #echo 'The following Maven command installs your Maven-built Java application'
 #echo 'into the local Maven repository, which will ultimately be stored in'
